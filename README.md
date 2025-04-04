@@ -14,7 +14,7 @@ Expert in Salesforce architecture, full-stack development, and AI-powered soluti
 ---
 
 📈 Achievements  
-- 5x Salesforce Certified
+- 6x Salesforce Certified
 - Created scalable Salesforce automation tools used across teams  
 - Delivered solutions across **100+ Salesforce projects** in diverse industries
 
