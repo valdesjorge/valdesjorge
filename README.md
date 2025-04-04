@@ -1,7 +1,7 @@
 👋 Hi, I'm Jorge  
 Software Engineer | Salesforce Technical Consultant
 
-Expert in Salesforce architecture, full-stack development, and AI-powered solutions. I specialize in third-party integrations, scalable systems, and turning complex requirements into elegant technical designs.
+Expert in Salesforce architecture, AI-powered solutions, and full-stack development. Building systems that connect platforms, scale with users, and deliver real-world impact.
 
 ---
 
