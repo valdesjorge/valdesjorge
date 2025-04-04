@@ -21,4 +21,4 @@ Expert in Salesforce architecture, full-stack development, and AI-powered soluti
 ---
 
 📬 Connect  
-📧 [Email Me](mailto:jorgevaldespuig@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/jorgevaldespuig) | [🌟 Trailhead](https://trailhead.salesforce.com/me/yourname)
+📧 [Email Me](mailto:jorgevaldespuig@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/jorgevaldespuig) | [🌟 Trailhead](https://www.salesforce.com/trailblazer/jvaldesp)
