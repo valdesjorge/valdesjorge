@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Jorge  
+Software Engineer | Salesforce Technical Consultant
 
-<!--
-**valdesjorge/valdesjorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expert in Salesforce architecture, full-stack development, and AI-powered solutions. I specialize in third-party integrations, scalable systems, and turning complex requirements into elegant technical designs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Expertise  
+**Salesforce:** Apex, LWC, Flow, CICD
+**AI & Automation:** Prompt Engineering, AI-driven development
+**Full-Stack Development:** Python, JavaScript, Node.js, Python, React  
+**DevOps & Tools:** Salesforce DX, GitHub Actions, Unraid, Netdata, Pi-hole
+
+---
+
+📈 Achievements  
+- 5x Salesforce Certified
+- Created scalable Salesforce automation tools used across teams  
+- Delivered solutions across **100+ Salesforce projects** in diverse industries
+
+---
+
+📬 Connect  
+📧 [Email Me](mailto:jorgevaldespuig@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/jorgevaldespuig) | [🌟 Trailhead](https://trailhead.salesforce.com/me/yourname)
