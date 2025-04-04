@@ -1,5 +1,5 @@
-👋 Hi, I'm Jorge  
-Software Engineer | Salesforce Technical Consultant
+👋 Hi, I'm Jorge Valdés
+Software Engineer | 6x Salesforce Certified | AI Developer
 
 Expert in Salesforce architecture, AI-powered solutions, and full-stack development. Building systems that connect platforms, scale with users, and deliver real-world impact.
 
